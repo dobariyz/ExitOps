@@ -1,0 +1,3306 @@
+[
+  {
+    "timestamp": "2026-02-21T21:03:19Z",
+    "module": "ERROR",
+    "target": "CONFIG",
+    "message": "Validation failed: GITHUB_ORG is not set",
+    "status": "FAILURE",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:08:26Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "GitHub user not found in org",
+    "status": "FAILURE",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:09:54Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "GitHub user not found in org",
+    "status": "FAILURE",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:11:18Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "GitHub user not found in org",
+    "status": "FAILURE",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:26Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "DRY-RUN: Would remove virajbarvalia from org dobariyz",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:27Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:27Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:27Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:27Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:28Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:29Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:31Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:31Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:31Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:31Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:31Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:19:32Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:49Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "DRY-RUN: Would remove virajbarvalia from org dobariyz",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:53Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:25:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:01Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "DRY-RUN: Would remove virajbarvalia from org dobariyz",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:02Z",
+    "module": "GITHUB",
+    "target": "FaceFixer",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from FaceFixer",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:02Z",
+    "module": "GITHUB",
+    "target": "Facefixer_Backend",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from Facefixer_Backend",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:04Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:05Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:05Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:05Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:05Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:06Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:08Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:08Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:08Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:08Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:08Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:35:09Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:18Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "DRY-RUN: Would remove virajbarvalia from org dobariyz",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:19Z",
+    "module": "GITHUB",
+    "target": "FaceFixer",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from FaceFixer",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:19Z",
+    "module": "GITHUB",
+    "target": "Facefixer_Backend",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from Facefixer_Backend",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:20Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:21Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:21Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:21Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:21Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:22Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:23Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:25Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:25Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:25Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:25Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:25Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T21:51:26Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:43Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "DRY-RUN: Would remove virajbarvalia from org dobariyz",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:43Z",
+    "module": "GITHUB",
+    "target": "FaceFixer",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from FaceFixer",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:43Z",
+    "module": "GITHUB",
+    "target": "Facefixer_Backend",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from Facefixer_Backend",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:45Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:04:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:03Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:03Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:03Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:03Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:04Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:05Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:10:08Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:41Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "DRY-RUN: Would remove virajbarvalia from org dobariyz",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:42Z",
+    "module": "GITHUB",
+    "target": "FaceFixer",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from FaceFixer",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:42Z",
+    "module": "GITHUB",
+    "target": "Facefixer_Backend",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from Facefixer_Backend",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:43Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:11:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:41Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "DRY-RUN: Would remove virajbarvalia from org dobariyz",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:42Z",
+    "module": "GITHUB",
+    "target": "FaceFixer",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from FaceFixer",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:42Z",
+    "module": "GITHUB",
+    "target": "Facefixer_Backend",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from Facefixer_Backend",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:43Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:45Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:13:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "IAM user NOT deleted (re-run with --delete-iam-user to hard-delete)",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:14:50Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:14:50Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:14:50Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:14:51Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "RESIDUAL: Active IAM access keys remain",
+    "status": "FAILURE",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:26Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "DRY-RUN: Would remove virajbarvalia from org dobariyz",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:27Z",
+    "module": "GITHUB",
+    "target": "FaceFixer",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from FaceFixer",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:27Z",
+    "module": "GITHUB",
+    "target": "Facefixer_Backend",
+    "message": "DRY-RUN: Would remove virajbarvalia as collaborator from Facefixer_Backend",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:28Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:29Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:29Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:29Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:29Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMPTFITHAY",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:30Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:32Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:33Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:33Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:33Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:33Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:33Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:34Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:35Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:35Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "IAM user NOT deleted (re-run with --delete-iam-user to hard-delete)",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:44Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:44Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:44Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:15:45Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "RESIDUAL: Active IAM access keys remain",
+    "status": "FAILURE",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-21T22:18:28Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "Failed to remove org membership (HTTP 404)",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:18:30Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:18:30Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:18:31Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:18:31Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:18:32Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "RESIDUAL: Active IAM access keys remain",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:24:37Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "Failed to remove org membership (HTTP 404)",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:24:39Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:24:39Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:24:39Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:24:39Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:24:41Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "RESIDUAL: Active IAM access keys remain",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:25:01Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:29:30Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:31:31Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:32:24Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:32:31Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:32:32Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:32:33Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:32:34Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No managed policies attached",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:32:35Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:32:37Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:32:37Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "IAM user NOT deleted (re-run with --delete-iam-user to hard-delete)",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:33:43Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:33:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:33:45Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:33:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No managed policies attached",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:33:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:33:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:33:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "IAM user NOT deleted (re-run with --delete-iam-user to hard-delete)",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:40:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:40:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:40:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:40:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No managed policies attached",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:40:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:40:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:40:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "IAM user NOT deleted (re-run with --delete-iam-user to hard-delete)",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:08Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:09Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:10Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No managed policies attached",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:12Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:13Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:13Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "IAM user NOT deleted (re-run with --delete-iam-user to hard-delete)",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:33Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:33Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:33Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:42:34Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:52:31Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "IAM user not found",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:52:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:52:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:52:56Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:52:58Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:52:59Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:52:59Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "IAM user NOT deleted (re-run with --delete-iam-user to hard-delete)",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:53:04Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:53:04Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:53:04Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:53:05Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:56:33Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:56:33Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:56:33Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:56:34Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:57:21Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:57:21Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:57:21Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:57:22Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:58:25Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:58:25Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:58:25Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T22:58:26Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:02:56Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:02:56Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:02:56Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:02:57Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:06:31Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:06:31Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:06:31Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:06:32Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:10:21Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:10:21Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:10:21Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:10:22Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:12:27Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:12:28Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:12:28Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:12:29Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:14:36Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:14:36Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:14:36Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:14:37Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-21T23:14:40Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:09:32Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:09:32Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:09:32Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:09:33Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:09:35Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:11:19Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:11:19Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:11:19Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:11:20Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:11:22Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:20:03Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:20:03Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:20:03Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:20:04Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:20:06Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:32:47Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "IAM user not found",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:34:56Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "IAM user not found",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:36:25Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "IAM user not found",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:38:55Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "IAM user not found",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:39:28Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "IAM user not found",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:41:13Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "IAM user not found",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:43Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No org membership found (personal repo) — continuing",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:44Z",
+    "module": "GITHUB",
+    "target": "FaceFixer",
+    "message": "Removed collaborator access from repo: FaceFixer",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:45Z",
+    "module": "GITHUB",
+    "target": "Facefixer_Backend",
+    "message": "Removed collaborator access from repo: Facefixer_Backend",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:46Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:52Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:52Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "IAM user NOT deleted (re-run with --delete-iam-user to hard-delete)",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:52Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:52Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:52Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:53Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:46:56Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:51:43Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No org membership found (personal repo) — continuing",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:51:44Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:51:45Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:51:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:51:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:51:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:51:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:52:02Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Hard-delete IAM user: resource-tracker",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:52:02Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:52:02Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:52:02Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:52:03Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:52:05Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:39Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No org membership found (personal repo) — continuing",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:41Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:42Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:43Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:48Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:48Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:48Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:49Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:55:51Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:56:56Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No org membership found (personal repo) — continuing",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:56:58Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:56:59Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:57:00Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:57:01Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:57:03Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:57:04Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:58:37Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Hard-delete IAM user: resource-tracker",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:58:37Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:58:38Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:58:38Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:58:39Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T03:58:41Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:09:02Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:09:03Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:09:04Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:09:06Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:09:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:09:11Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Delete IAM user: resource-tracker",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:13:18Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:13:19Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:13:20Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:13:22Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:13:23Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:13:27Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Delete IAM user: resource-tracker",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:17:42Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:17:43Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:17:44Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:17:46Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:17:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:17:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete IAM user: resource-tracker",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:20:59Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:21:00Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:21:01Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:21:03Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:21:04Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:21:07Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete IAM user: resource-tracker",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMNIO6ZZ2W",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMNIO6ZZ2W",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:52Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-delete key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-delete key: AKIA5MN3GDMMNIO6ZZ2W",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:56Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:56Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:56Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:56Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:56Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:57Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Remove all tags",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:25:57Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete IAM user: resource-tracker",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Deactivate access key: AKIA5MN3GDMMNIO6ZZ2W",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete access key: AKIA5MN3GDMMNIO6ZZ2W",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:52Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:53Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-delete key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:54Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-delete key: AKIA5MN3GDMMNIO6ZZ2W",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:55Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Force-detach policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:57Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Remove all tags",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:26:57Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "DRY-RUN: Delete IAM user: resource-tracker",
+    "status": "SIMULATED",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-02-22T04:27:37Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Deactivate access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:38Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Delete access key: AKIA5MN3GDMMKL6HK4NR",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:40Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Deactivate access key: AKIA5MN3GDMMNIO6ZZ2W",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:41Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Delete access key: AKIA5MN3GDMMNIO6ZZ2W",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:42Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:43Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:45Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Detach managed policy: arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:47Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Detach managed policy: arn:aws:iam::aws:policy/IAMReadOnlyAccess",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:48Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Detach managed policy: arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:49Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:50Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Detach managed policy: arn:aws:iam::aws:policy/AWSLambda_FullAccess",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:51Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:53Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:57Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Remove all tags",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:27:59Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "Delete IAM user: resource-tracker",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:29:22Z",
+    "module": "ERROR",
+    "target": "PREFLIGHT",
+    "message": "IAM user not found",
+    "status": "FAILURE",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:40:53Z",
+    "module": "INFO",
+    "target": "PREFLIGHT",
+    "message": "IAM user already removed",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:40:54Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No org membership found (personal repo) — continuing",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:40:56Z",
+    "module": "GITHUB",
+    "target": "virajbarvalia",
+    "message": "No active SSO credentials found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:40:57Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No access keys found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:40:58Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No signing certificates found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:40:59Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No login profile found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:41:01Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "No inline policies found",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:41:03Z",
+    "module": "AWS_IAM",
+    "target": "resource-tracker",
+    "message": "User is not in any IAM groups",
+    "status": "INFO",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:41:03Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub org membership: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:41:03Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub team memberships: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:41:03Z",
+    "module": "VERIFY",
+    "target": "virajbarvalia",
+    "message": "GitHub repo collaborator access: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:41:04Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM access keys: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-02-22T04:41:06Z",
+    "module": "VERIFY",
+    "target": "resource-tracker",
+    "message": "IAM attached policies: clean",
+    "status": "SUCCESS",
+    "dry_run": false
+  }
+]
